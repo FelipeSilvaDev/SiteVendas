@@ -3,44 +3,12 @@
   "WorkspaceRootPath": "C:\\Projetos\\SiteVendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_carousel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\demo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\sitevendas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\sitevendas.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\models\\lanche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,136 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Demo.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Demo.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\Demo.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Demo.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\Home\\Demo.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:04:35.68Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "SiteVendas\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Lanche.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Lanche.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Models\\Lanche.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Lanche.cs",
+              "RelativeToolTip": "SiteVendas\\Models\\Lanche.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA4AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T18:04:08.746Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "SiteVendas",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\SiteVendas.csproj",
-              "RelativeDocumentMoniker": "SiteVendas\\SiteVendas.csproj",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\SiteVendas.csproj",
-              "RelativeToolTip": "SiteVendas\\SiteVendas.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-14T18:03:28.823Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml.css",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml.css",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml.css",
-              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Layout.cshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-08-14T18:03:01.687Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:02:40.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBoAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:00:34.287Z",
+              "WhenOpened": "2025-08-14T19:05:19.28Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T17:54:36.379Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Carousel.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Carousel.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Carousel.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Carousel.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-14T18:16:19.1Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
-              "RelativeToolTip": "SiteVendas\\Startup.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Models\\Categoria.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Categoria.cs",
+              "RelativeToolTip": "SiteVendas\\Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:48:56.843Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Program.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Program.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Program.cs",
-              "RelativeToolTip": "SiteVendas\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T17:40:58.428Z",
+              "WhenOpened": "2025-08-14T19:01:38.857Z",
               "EditorCaption": ""
             }
           ]
