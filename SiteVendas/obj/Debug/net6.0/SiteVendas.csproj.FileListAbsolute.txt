@@ -31,3 +31,4 @@ C:\Projetos\SiteVendas\SiteVendas\obj\Debug\net6.0\refint\SiteVendas.dll
 C:\Projetos\SiteVendas\SiteVendas\obj\Debug\net6.0\SiteVendas.pdb
 C:\Projetos\SiteVendas\SiteVendas\obj\Debug\net6.0\SiteVendas.genruntimeconfig.cache
 C:\Projetos\SiteVendas\SiteVendas\obj\Debug\net6.0\ref\SiteVendas.dll
+C:\Projetos\SiteVendas\SiteVendas\obj\Debug\net6.0\SiteVendas.sourcelink.json
