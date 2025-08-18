@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Projetos\\SiteVendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250818135510_PopularLanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SiteVendas\\Migrations\\20250818135510_PopularLanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\migrations\\20250818135510_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\migrations\\20250818135510_popularlanches.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\migrations\\20250818134214_popularcategorias.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -59,19 +67,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "SiteVendas\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:50:50.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "SiteVendas\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-18T16:45:48.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20250818135510_PopularLanches.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250818135510_PopularLanches.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Migrations\\20250818135510_PopularLanches.cs",
               "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250818135510_PopularLanches.cs",
               "RelativeToolTip": "SiteVendas\\Migrations\\20250818135510_PopularLanches.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-18T13:55:10.419Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "20250818134214_PopularCategorias.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250818134214_PopularCategorias.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Migrations\\20250818134214_PopularCategorias.cs",
@@ -79,12 +113,11 @@
               "RelativeToolTip": "SiteVendas\\Migrations\\20250818134214_PopularCategorias.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T13:42:15.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T13:42:15.21Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -92,12 +125,11 @@
               "RelativeToolTip": "SiteVendas\\Migrations\\AppDbContextModelSnapshot.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-18T13:37:52.698Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-18T13:37:52.698Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "20250815184407_MigracaoInicial.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250815184407_MigracaoInicial.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Migrations\\20250815184407_MigracaoInicial.cs",
@@ -105,12 +137,11 @@
               "RelativeToolTip": "SiteVendas\\Migrations\\20250815184407_MigracaoInicial.cs",
               "ViewState": "AgIAADMAAAAAAAAAAAAgwAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T18:44:07.466Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T18:44:07.466Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "SiteVendas.csproj",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\SiteVendas.csproj",
               "RelativeDocumentMoniker": "SiteVendas\\SiteVendas.csproj",
@@ -122,7 +153,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 10,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
@@ -134,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\appsettings.json",
               "RelativeDocumentMoniker": "SiteVendas\\appsettings.json",
@@ -146,7 +177,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 11,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Context\\AppDbContext.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Context\\AppDbContext.cs",
@@ -158,7 +189,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Program.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Program.cs",
@@ -170,7 +201,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Lanche.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Lanche.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Models\\Lanche.cs",
@@ -178,12 +209,11 @@
               "RelativeToolTip": "SiteVendas\\Models\\Lanche.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:05:19.28Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T19:05:19.28Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Categoria.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\Categoria.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Models\\Categoria.cs",
@@ -191,8 +221,7 @@
               "RelativeToolTip": "SiteVendas\\Models\\Categoria.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-14T19:01:38.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-14T19:01:38.857Z"
             }
           ]
         }
