@@ -14,8 +14,13 @@ namespace SiteVendas.Controllers
 
         public IActionResult List()
         {
-            var lanches = _lancherepository.Lanches;
-            return View(lanches);
+            //var lanches = _lancherepository.Lanches;
+            //return View(lanches);
+            var lancheslistViewModel = new ViewModels.LancheListViewModel();
+            lancheslistViewModel.Lanches = _lancherepository.Lanches;
+            lancheslistViewModel.CategoriaAtual = "Categoria Atual";
+
+            return View(lancheslistViewModel);
         }
     }
 }
