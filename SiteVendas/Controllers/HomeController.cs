@@ -8,6 +8,7 @@ namespace SiteVendas.Controllers
     {
         public IActionResult Index()
         {
+            TempData["Nome"] = "Felipe";
             return View();
         }
         public IActionResult Demo()
