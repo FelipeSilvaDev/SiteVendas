@@ -46,8 +46,7 @@
               "RelativeToolTip": "SiteVendas\\Migrations\\20250820134303_CarrinhoCompraItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:51.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:42:51.06Z"
             },
             {
               "$type": "Document",
@@ -59,8 +58,7 @@
               "RelativeToolTip": "SiteVendas\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:46.772Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:42:46.772Z"
             },
             {
               "$type": "Document",
@@ -72,8 +70,7 @@
               "RelativeToolTip": "SiteVendas\\Controllers\\LancheController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:42.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:42:42.64Z"
             },
             {
               "$type": "Document",
@@ -85,8 +82,7 @@
               "RelativeToolTip": "SiteVendas\\Models\\CarrinhoCompraItem.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:20.588Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:42:20.588Z"
             },
             {
               "$type": "Document",
@@ -96,7 +92,7 @@
               "RelativeDocumentMoniker": "SiteVendas\\Models\\CarrinhoCompra.cs",
               "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\CarrinhoCompra.cs",
               "RelativeToolTip": "SiteVendas\\Models\\CarrinhoCompra.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwBwAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-20T17:40:51.702Z",
               "EditorCaption": ""
@@ -111,8 +107,7 @@
               "RelativeToolTip": "SiteVendas\\Startup.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:15:57.103Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-20T17:15:57.103Z"
             }
           ]
         }
