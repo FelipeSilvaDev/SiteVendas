@@ -12,7 +12,7 @@ namespace SiteVendas.Models
         }
 
         public string CarrinhoCompraId { get; set; }
-        public List<CarrinhoCompraItem> carrinhoCompraItems { get; set; }
+        public List<CarrinhoCompraItem> CarrinhoCompraItems { get; set; }
         public static CarrinhoCompra GetCarrinho(IServiceProvider services)
         {
             ISession session =
@@ -81,8 +81,8 @@ namespace SiteVendas.Models
 
         public List<CarrinhoCompraItem> GetCarrinhoCompraItens()
         {
-            return carrinhoCompraItems ??
-                   (carrinhoCompraItems =
+            return CarrinhoCompraItems ??
+                   (CarrinhoCompraItems =
                        _context.CarrinhoCompraItens
                        .Where(c => c.CarrinhoCompraId == CarrinhoCompraId)
                        .Include(s => s.Lanche)
