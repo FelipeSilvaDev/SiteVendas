@@ -3,44 +3,24 @@
   "WorkspaceRootPath": "C:\\Projetos\\SiteVendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\carrinhocompracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\models\\carrinhocompra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\viewmodels\\carrinhocompraviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\viewmodels\\lanchelistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\models\\carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\migrations\\20250820134303_carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\migrations\\20250820134303_carrinhocompraitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_lanchesresumo.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\viewmodels\\homeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,129 +30,72 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAADkAAAAiAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_LanchesResumo.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-21T13:36:34.41Z",
+              "WhenOpened": "2025-08-21T14:13:29.61Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "LancheListViewModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\LancheListViewModel.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\ViewModels\\LancheListViewModel.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\LancheListViewModel.cs",
-              "RelativeToolTip": "SiteVendas\\ViewModels\\LancheListViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T13:14:54.173Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CarrinhoCompraViewModel.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "RelativeToolTip": "SiteVendas\\ViewModels\\CarrinhoCompraViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T13:08:59.325Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CarrinhoCompraController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\CarrinhoCompraController.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\CarrinhoCompraController.cs",
-              "RelativeToolTip": "SiteVendas\\Controllers\\CarrinhoCompraController.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwBQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T12:53:40.952Z",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T14:12:12.257Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-21T14:11:56.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SiteVendas\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:46.772Z"
+              "WhenOpened": "2025-08-21T14:09:15.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LancheController.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\LancheController.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\LancheController.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\LancheController.cs",
-              "RelativeToolTip": "SiteVendas\\Controllers\\LancheController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA==",
+              "DocumentIndex": 4,
+              "Title": "HomeViewModel.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\HomeViewModel.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\ViewModels\\HomeViewModel.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\ViewModels\\HomeViewModel.cs",
+              "RelativeToolTip": "SiteVendas\\ViewModels\\HomeViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:42.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CarrinhoCompra.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\CarrinhoCompra.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Models\\CarrinhoCompra.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\CarrinhoCompra.cs",
-              "RelativeToolTip": "SiteVendas\\Models\\CarrinhoCompra.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAuwFMAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:40:51.702Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "20250820134303_CarrinhoCompraItem.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250820134303_CarrinhoCompraItem.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Migrations\\20250820134303_CarrinhoCompraItem.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Migrations\\20250820134303_CarrinhoCompraItem.cs",
-              "RelativeToolTip": "SiteVendas\\Migrations\\20250820134303_CarrinhoCompraItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:51.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CarrinhoCompraItem.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\CarrinhoCompraItem.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Models\\CarrinhoCompraItem.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Models\\CarrinhoCompraItem.cs",
-              "RelativeToolTip": "SiteVendas\\Models\\CarrinhoCompraItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:42:20.588Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
-              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
-              "RelativeToolTip": "SiteVendas\\Startup.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAgwBwAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-20T17:15:57.103Z"
+              "WhenOpened": "2025-08-21T14:08:31.124Z",
+              "EditorCaption": ""
             }
           ]
         }
