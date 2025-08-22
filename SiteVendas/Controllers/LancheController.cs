@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using SiteVendas.Models;
 using SiteVendas.Repositories.Interfaces;
+using SiteVendas.ViewModels;
 
 namespace SiteVendas.Controllers
 {
@@ -12,13 +14,38 @@ namespace SiteVendas.Controllers
             _lancherepository = lancherepository;
         }
 
-        public IActionResult List()
+        public IActionResult List(string categoria)
         {
-            //var lanches = _lancherepository.Lanches;
-            //return View(lanches);
-            var lancheslistViewModel = new ViewModels.LancheListViewModel();
-            lancheslistViewModel.Lanches = _lancherepository.Lanches;
-            lancheslistViewModel.CategoriaAtual = "Categoria Atual";
+            IEnumerable<Lanche> lanches;
+            string categoriaAtual = string.Empty;
+
+            if (string.IsNullOrEmpty(categoria))
+            {
+                lanches = _lancherepository.Lanches.OrderBy(l => l.LancheId);
+                categoriaAtual = "Todos os lanches";
+            }
+            else
+            {
+                if (string.Equals("Normal", categoria, StringComparison.OrdinalIgnoreCase))
+                {
+                    lanches = _lancherepository.Lanches
+                        .Where(l => l.Categoria.CategoriaNome.Equals("Normal"))
+                        .OrderBy(l => l.Nome);
+                }
+                else
+                {
+                    lanches = _lancherepository.Lanches
+                        .Where(l => l.Categoria.CategoriaNome.Equals("Natural"))
+                        .OrderBy(l => l.Nome);
+                }
+                categoriaAtual = categoria;
+            }
+
+            var lancheslistViewModel = new LancheListViewModel
+            {
+                Lanches = lanches,
+                CategoriaAtual = categoriaAtual
+            };
 
             return View(lancheslistViewModel);
         }
