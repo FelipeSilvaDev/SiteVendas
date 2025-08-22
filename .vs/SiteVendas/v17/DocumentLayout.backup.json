@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Projetos\\SiteVendas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\lanchecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "LancheController.cs",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\LancheController.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\LancheController.cs",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\LancheController.cs",
+              "RelativeToolTip": "SiteVendas\\Controllers\\LancheController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T17:32:52.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Default.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\Shared\\Components\\CategoriaMenu\\Default.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-08-22T13:54:14.339Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:54:14.339Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoriaMenu.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Components\\CategoriaMenu.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Components\\CategoriaMenu.cs",
@@ -64,12 +80,11 @@
               "RelativeToolTip": "SiteVendas\\Components\\CategoriaMenu.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:49:10.299Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:49:10.299Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Startup.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
@@ -77,8 +92,7 @@
               "RelativeToolTip": "SiteVendas\\Startup.cs",
               "ViewState": "AgIAAC4AAAAAAAAAAAAIwD0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-22T13:13:34.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-22T13:13:34.924Z"
             }
           ]
         }
