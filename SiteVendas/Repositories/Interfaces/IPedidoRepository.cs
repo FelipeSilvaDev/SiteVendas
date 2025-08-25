@@ -2,7 +2,7 @@
 
 namespace SiteVendas.Repositories.Interfaces
 {
-    public class IPedidoRepository
+    public interface IPedidoRepository
     {
         void CriarPedido(Pedido pedido);
     }
