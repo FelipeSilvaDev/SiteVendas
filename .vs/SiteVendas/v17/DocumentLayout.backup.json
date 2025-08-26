@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Projetos\\SiteVendas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\home\\_indexpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\_indexpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetos\\sitevendas\\sitevendas\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\pedido\\checkoutcompleto.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -27,19 +39,58 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:46:49.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_IndexPartial.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:44:38.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-26T18:40:59.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "CheckoutCompleto.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Pedido\\CheckoutCompleto.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Pedido\\CheckoutCompleto.cshtml",
               "ToolTip": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Pedido\\CheckoutCompleto.cshtml",
               "RelativeToolTip": "SiteVendas\\Views\\Pedido\\CheckoutCompleto.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-08-26T18:17:53.738Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Checkout.cshtml",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Views\\Pedido\\Checkout.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Pedido\\Checkout.cshtml",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "PedidoController.cs",
               "DocumentMoniker": "C:\\Projetos\\SiteVendas\\SiteVendas\\Controllers\\PedidoController.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Controllers\\PedidoController.cs",
@@ -59,8 +110,7 @@
               "RelativeToolTip": "SiteVendas\\Controllers\\PedidoController.cs",
               "ViewState": "AgIAABEAAAAAAAAAAAASwEUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-26T14:07:21.836Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-26T14:07:21.836Z"
             }
           ]
         }
