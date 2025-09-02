@@ -9,81 +9,79 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = SiteVendas
 build_property.RootNamespace = SiteVendas
-build_property.ProjectDir = C:\Projetos\SiteVendas\SiteVendas\
+build_property.ProjectDir = C:\ProjetosFelipe\SiteVendas\SiteVendas\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Projetos\SiteVendas\SiteVendas
+build_property.MSBuildProjectDirectory = C:\ProjetosFelipe\SiteVendas\SiteVendas
 build_property._RazorSourceGeneratorDebug = 
-build_property.EffectiveAnalysisLevelStyle = 6.0
-build_property.EnableCodeStyleSeverity = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/CarrinhoCompra/Index.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/CarrinhoCompra/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FycmluaG9Db21wcmFcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Contato/Index.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Contato/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29udGF0b1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Home/Index.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Home/_IndexPartial.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Home/_IndexPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxfSW5kZXhQYXJ0aWFsLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Lanche/Details.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Lanche/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXERldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Lanche/List.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Lanche/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGFuY2hlXExpc3QuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Pedido/Checkout.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Pedido/Checkout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENoZWNrb3V0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Pedido/CheckoutCompleto.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Pedido/CheckoutCompleto.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGVkaWRvXENoZWNrb3V0Q29tcGxldG8uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/Components/CarrinhoCompraResumo/Default.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/Components/CarrinhoCompraResumo/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2FycmluaG9Db21wcmFSZXN1bW9cRGVmYXVsdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/Components/CategoriaMenu/Default.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/Components/CategoriaMenu/Default.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXENvbXBvbmVudHNcQ2F0ZWdvcmlhTWVudVxEZWZhdWx0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/Error.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/_Carousel.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/_Carousel.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9DYXJvdXNlbC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/_LanchesResumo.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/_LanchesResumo.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYW5jaGVzUmVzdW1vLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/_ViewImports.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/_ViewStart.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Projetos/SiteVendas/SiteVendas/Views/Shared/_Layout.cshtml]
+[C:/ProjetosFelipe/SiteVendas/SiteVendas/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-bsgbj298ik
