@@ -507,3 +507,8 @@ C:\ProjetosFelipe\SiteVendas\SiteVendas\obj\Debug\net6.0\refint\SiteVendas.dll
 C:\ProjetosFelipe\SiteVendas\SiteVendas\obj\Debug\net6.0\SiteVendas.pdb
 C:\ProjetosFelipe\SiteVendas\SiteVendas\obj\Debug\net6.0\SiteVendas.genruntimeconfig.cache
 C:\ProjetosFelipe\SiteVendas\SiteVendas\obj\Debug\net6.0\ref\SiteVendas.dll
+C:\ProjetosFelipe\SiteVendas\SiteVendas\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\ProjetosFelipe\SiteVendas\SiteVendas\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\ProjetosFelipe\SiteVendas\SiteVendas\bin\Debug\net6.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\ProjetosFelipe\SiteVendas\SiteVendas\bin\Debug\net6.0\Microsoft.Extensions.Identity.Core.dll
+C:\ProjetosFelipe\SiteVendas\SiteVendas\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
