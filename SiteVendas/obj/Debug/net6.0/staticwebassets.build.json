@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "E5JbtPZ+NBg11aAbe7WJvZYy2yqS0s7yVOHil1nvlSc=",
+  "Hash": "/oZQkPT5gE8rFEV0b6+BkEWO0BvStpRA0s9U809CXx0=",
   "Source": "SiteVendas",
   "BasePath": "_content/SiteVendas",
   "Mode": "Default",
@@ -585,6 +585,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\layout\\icons8-speaker-phone-50.png"
+    },
+    {
+      "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\login_48.png",
+      "SourceId": "SiteVendas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\",
+      "BasePath": "_content/SiteVendas",
+      "RelativePath": "images/login_48.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login_48.png"
     },
     {
       "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\phone-app-icon.png",

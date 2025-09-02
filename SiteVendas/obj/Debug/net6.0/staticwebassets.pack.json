@@ -117,6 +117,10 @@
       "PackagePath": "staticwebassets\\images\\layout\\icons8-speaker-phone-50.png"
     },
     {
+      "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\login_48.png",
+      "PackagePath": "staticwebassets\\images\\login_48.png"
+    },
+    {
       "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },
