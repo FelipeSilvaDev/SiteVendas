@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\ProjetosFelipe\\SiteVendas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -33,10 +45,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\views\\carrinhocompra\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -79,32 +87,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Startup.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
+              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Startup.cs",
+              "RelativeToolTip": "SiteVendas\\Startup.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T14:14:04.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-03T14:02:20.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "SiteVendas\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAABsAAAAAAAAAAAAAACcAAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-09-02T19:32:21.78Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_IndexPartial.cshtml",
-              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
-              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
-              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
-              "RelativeToolTip": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:32:19.554Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\_ViewStart.cshtml",
@@ -112,12 +133,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\_ViewStart.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:32:14.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:32:14.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\_ViewImports.cshtml",
@@ -125,12 +145,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\_ViewImports.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:32:13.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:32:13.303Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "_ValidationScriptsPartial.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
@@ -138,12 +157,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:32:11.634Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:32:11.634Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "_LanchesResumo.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
@@ -151,12 +169,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\Shared\\_LanchesResumo.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:31:52.372Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:31:52.372Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
@@ -164,12 +181,36 @@
               "RelativeToolTip": "SiteVendas\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:31:45.757Z",
+              "WhenOpened": "2025-09-02T19:31:45.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SiteVendas\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T18:46:10.998Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
+              "Title": "_IndexPartial.cshtml",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "RelativeToolTip": "SiteVendas\\Views\\Home\\_IndexPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-02T19:32:19.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
@@ -177,12 +218,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\CarrinhoCompra\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:20:50.338Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:20:50.338Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Views\\Account\\Login.cshtml",
@@ -190,25 +230,11 @@
               "RelativeToolTip": "SiteVendas\\Views\\Account\\Login.cshtml",
               "ViewState": "AQIAAA0AAAAAAAAAAAAiwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-02T19:15:26.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-02T19:15:26.949Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AccountController.cs",
-              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Controllers\\AccountController.cs",
-              "RelativeDocumentMoniker": "SiteVendas\\Controllers\\AccountController.cs",
-              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Controllers\\AccountController.cs",
-              "RelativeToolTip": "SiteVendas\\Controllers\\AccountController.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-02T18:46:10.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "SiteVendas\\ViewModels\\LoginViewModel.cs",
