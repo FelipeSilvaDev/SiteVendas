@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "/oZQkPT5gE8rFEV0b6+BkEWO0BvStpRA0s9U809CXx0=",
+  "Hash": "hiLpqqNqPv0c08WVvQgf7H0BV7SC02oNeM6fgK0CnJ4=",
   "Source": "SiteVendas",
   "BasePath": "_content/SiteVendas",
   "Mode": "Default",
@@ -91,6 +91,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\adminarea.jpg",
+      "SourceId": "SiteVendas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\",
+      "BasePath": "_content/SiteVendas",
+      "RelativePath": "images/adminarea.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\adminarea.jpg"
     },
     {
       "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\carousel11.jpg",
@@ -604,6 +623,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\login_48.png"
+    },
+    {
+      "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\login1.jpg",
+      "SourceId": "SiteVendas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\",
+      "BasePath": "_content/SiteVendas",
+      "RelativePath": "images/login1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\login1.jpg"
     },
     {
       "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\phone-app-icon.png",
