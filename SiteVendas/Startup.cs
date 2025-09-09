@@ -4,6 +4,7 @@ using SiteVendas.Context;
 using SiteVendas.Models;
 using SiteVendas.Repositories;
 using SiteVendas.Repositories.Interfaces;
+using SiteVendas.Services;
 
 namespace SiteVendas;
 
@@ -40,6 +41,8 @@ public class Startup
         services.AddTransient<ILancheRepository, LancheRepository>();
         services.AddTransient<ICategoriaRepository, CategoriaRepository>();
         services.AddTransient<IPedidoRepository, PedidoRepository>();
+        services.AddScoped<ISeedUserRoleInitial, SeedUserRoleInitial>();
+
         services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
@@ -50,7 +53,7 @@ public class Startup
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
+    public void Configure(IApplicationBuilder app, IWebHostEnvironment env, ISeedUserRoleInitial seedUserRoleInitial)
     {
         if (env.IsDevelopment())
         {
@@ -63,9 +66,15 @@ public class Startup
             app.UseHsts();
         }
         app.UseHttpsRedirection();
+        
         app.UseStaticFiles();
-
         app.UseRouting();
+        
+        //cria os perfis
+        seedUserRoleInitial.SeedRoles();
+        //cria os usuarios e atribui ao perfil
+        seedUserRoleInitial.SeedUsers();
+
         app.UseSession();
 
         app.UseAuthentication();
