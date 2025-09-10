@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\ProjetosFelipe\\SiteVendas\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\services\\seeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\services\\iseeduserroleinitial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Controllers\\AccountController.cs",
@@ -67,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "SeedUserRoleInitial.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Services\\SeedUserRoleInitial.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Services\\SeedUserRoleInitial.cs",
               "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Services\\SeedUserRoleInitial.cs",
               "RelativeToolTip": "SiteVendas\\Services\\SeedUserRoleInitial.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAEUAAAA8AAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAqwEEAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-09T14:46:47.494Z",
               "EditorCaption": ""
@@ -88,8 +88,7 @@
               "RelativeToolTip": "SiteVendas\\Services\\ISeedUserRoleInitial.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-09T14:45:57.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-09T14:45:57.757Z"
             },
             {
               "$type": "Document",
@@ -101,18 +100,17 @@
               "RelativeToolTip": "SiteVendas\\Areas\\Admin\\Controllers\\AdminController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-08T13:44:03.969Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-08T13:44:03.969Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Startup.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
               "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Startup.cs",
               "RelativeToolTip": "SiteVendas\\Startup.cs",
-              "ViewState": "AQIAADIAAAAAAAAAAAAqwEoAAAAuAAAA",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAqwFIAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-05T14:28:02.287Z",
               "EditorCaption": ""
