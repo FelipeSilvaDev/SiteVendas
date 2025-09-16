@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "hiLpqqNqPv0c08WVvQgf7H0BV7SC02oNeM6fgK0CnJ4=",
+  "Hash": "bdcLi1xnXEwxQR+AtbJfL+Vobp8kRZ4UD8veIEjsYQo=",
   "Source": "SiteVendas",
   "BasePath": "_content/SiteVendas",
   "Mode": "Default",
@@ -642,6 +642,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\login1.jpg"
+    },
+    {
+      "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\negado1.jpg",
+      "SourceId": "SiteVendas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\",
+      "BasePath": "_content/SiteVendas",
+      "RelativePath": "images/negado1.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\negado1.jpg"
     },
     {
       "Identity": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\phone-app-icon.png",

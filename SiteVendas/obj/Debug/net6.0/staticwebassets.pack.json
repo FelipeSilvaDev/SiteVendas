@@ -129,6 +129,10 @@
       "PackagePath": "staticwebassets\\images\\login_48.png"
     },
     {
+      "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\negado1.jpg",
+      "PackagePath": "staticwebassets\\images\\negado1.jpg"
+    },
+    {
       "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\phone-app-icon.png",
       "PackagePath": "staticwebassets\\images\\phone-app-icon.png"
     },

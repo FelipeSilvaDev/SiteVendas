@@ -11,7 +11,8 @@ namespace SiteVendas.Controllers
         private readonly UserManager<IdentityUser> _userManager;
         private readonly SignInManager<IdentityUser> _signInManager;
 
-        public AccountController(UserManager<IdentityUser> userManager, SignInManager<IdentityUser> signInManager)
+        public AccountController(UserManager<IdentityUser> userManager,
+            SignInManager<IdentityUser> signInManager)
         {
             _userManager = userManager;
             _signInManager = signInManager;
@@ -22,7 +23,7 @@ namespace SiteVendas.Controllers
         {
             return View(new LoginViewModel()
             {
-                ReturnUrl = returnUrl,
+                ReturnUrl = returnUrl
             });
         }
 
@@ -37,7 +38,9 @@ namespace SiteVendas.Controllers
 
             if (user != null)
             {
-                var result = await _signInManager.PasswordSignInAsync(user, loginVM.Password, false, false);
+                var result = await _signInManager.PasswordSignInAsync(user,
+                    loginVM.Password, false, false);
+
                 if (result.Succeeded)
                 {
                     if (string.IsNullOrEmpty(loginVM.ReturnUrl))
@@ -47,11 +50,9 @@ namespace SiteVendas.Controllers
                     return Redirect(loginVM.ReturnUrl);
                 }
             }
-
             ModelState.AddModelError("", "Falha ao realizar o login!!");
             return View(loginVM);
-
-        }
+        }//
 
         [AllowAnonymous]
         public IActionResult Register()
@@ -71,7 +72,7 @@ namespace SiteVendas.Controllers
 
                 if (result.Succeeded)
                 {
-                    //await _singInManager.SingInAsync(user, isPersistent: false);
+                    //await _signInManager.SignInAsync(user, isPersistent: false);
                     await _userManager.AddToRoleAsync(user, "Member");
                     return RedirectToAction("Login", "Account");
                 }
@@ -91,6 +92,11 @@ namespace SiteVendas.Controllers
             HttpContext.User = null;
             await _signInManager.SignOutAsync();
             return RedirectToAction("Index", "Home");
+        }
+
+        public IActionResult AccessDenied()
+        {
+            return View();
         }
     }
 }

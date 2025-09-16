@@ -4,7 +4,7 @@ using Microsoft.AspNetCore.Mvc;
 namespace SiteVendas.Areas.Admin.Controllers
 {
     [Area("Admin")]
-    [Authorize] 
+    [Authorize("Admin")]
     public class AdminController : Controller
     {
         public IActionResult Index()
@@ -13,3 +13,4 @@ namespace SiteVendas.Areas.Admin.Controllers
         }
     }
 }
+

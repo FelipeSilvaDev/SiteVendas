@@ -7,7 +7,8 @@ namespace SiteVendas.Services
         private readonly UserManager<IdentityUser> _userManager;
         private readonly RoleManager<IdentityRole> _roleManager;
 
-        public SeedUserRoleInitial(UserManager<IdentityUser> userManager, RoleManager<IdentityRole> roleManager)
+        public SeedUserRoleInitial(UserManager<IdentityUser> userManager,
+            RoleManager<IdentityRole> roleManager)
         {
             _userManager = userManager;
             _roleManager = roleManager;
@@ -26,7 +27,7 @@ namespace SiteVendas.Services
             {
                 IdentityRole role = new IdentityRole();
                 role.Name = "Admin";
-                role.NormalizedName = "Admin";
+                role.NormalizedName = "ADMIN";
                 IdentityResult roleResult = _roleManager.CreateAsync(role).Result;
             }
         }
@@ -48,7 +49,7 @@ namespace SiteVendas.Services
 
                 if (result.Succeeded)
                 {
-                    _userManager.AddToRoleAsync(user,"Member").Wait();
+                    _userManager.AddToRoleAsync(user, "Member").Wait();
                 }
             }
 
