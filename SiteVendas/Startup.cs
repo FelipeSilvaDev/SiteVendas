@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using ReflectionIT.Mvc.Paging;
 using SiteVendas.Context;
 using SiteVendas.Models;
 using SiteVendas.Repositories;
@@ -56,6 +57,13 @@ public class Startup
         services.AddScoped(sp => CarrinhoCompra.GetCarrinho(sp));
 
         services.AddControllersWithViews();
+
+        services.AddPaging(options => 
+        {
+            options.ViewName = "Bootstrap4";
+            options.PageParameterName = "pageindex";
+         
+        });
 
         services.AddMemoryCache();
         services.AddSession();
