@@ -9,6 +9,7 @@ using Microsoft.EntityFrameworkCore;
 using ReflectionIT.Mvc.Paging;
 using SiteVendas.Context;
 using SiteVendas.Models;
+using SiteVendas.ViewModels;
 
 namespace SiteVendas.Areas.Admin.Controllers
 {
@@ -21,6 +22,27 @@ namespace SiteVendas.Areas.Admin.Controllers
         public AdminPedidosController(AppDbContext context)
         {
             _context = context;
+        }
+
+        public IActionResult PedidoLanches(int? id)
+        {
+            var pedido = _context.Pedidos
+                         .Include(pd => pd.PedidoItens)
+                         .ThenInclude(l => l.Lanche)
+                         .FirstOrDefault(p => p.PedidoId == id);
+
+            if (pedido == null)
+            {
+                Response.StatusCode = 404;
+                return View("PedidoNotFound", id.Value);
+            }
+
+            PedidoLancheViewModel pedidoLanches = new PedidoLancheViewModel()
+            {
+                Pedido = pedido,
+                PedidoDetalhes = pedido.PedidoItens
+            };
+            return View(pedidoLanches);
         }
 
         // GET: Admin/AdminPedidos
