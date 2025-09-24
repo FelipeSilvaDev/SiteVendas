@@ -49,7 +49,7 @@ namespace SiteVendas.Areas.Admin.Controllers
         //public async Task<IActionResult> Index()
         //{
         //      return View(await _context.Pedidos.ToListAsync());
-        //}
+        // 
         public async Task<IActionResult> Index(string filter, int pageindex = 1, string sort = "Nome")
         {
             var resultado = _context.Pedidos.AsNoTracking()

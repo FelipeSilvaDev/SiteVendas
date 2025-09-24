@@ -7,6 +7,8 @@ namespace SiteVendas.Models
     {
         public int PedidoId { get; set; }
 
+        public virtual List<PedidoDetalhe> PedidoItens { get; set; } 
+
         [Required(ErrorMessage = "Informe o nome")]
         [StringLength(50)]
         public string Nome { get; set; }
@@ -66,7 +68,6 @@ namespace SiteVendas.Models
         [DisplayFormat(DataFormatString = "{0: dd/MM/yyyy hh:mm}", ApplyFormatInEditMode = true)]
         public DateTime? PedidoEntregueEm { get; set; }
 
-        public List<PedidoDetalhe> PedidoItens { get; set; }
 
     }
 }
