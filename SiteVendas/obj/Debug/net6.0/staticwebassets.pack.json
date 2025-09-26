@@ -65,6 +65,10 @@
       "PackagePath": "staticwebassets\\images\\delete.png"
     },
     {
+      "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\erro1.png",
+      "PackagePath": "staticwebassets\\images\\erro1.png"
+    },
+    {
       "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\faleconosco1.jpg",
       "PackagePath": "staticwebassets\\images\\faleconosco1.jpg"
     },
@@ -139,6 +143,14 @@
     {
       "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\remove.ico",
       "PackagePath": "staticwebassets\\images\\remove.ico"
+    },
+    {
+      "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\upload2.png",
+      "PackagePath": "staticwebassets\\images\\upload2.png"
+    },
+    {
+      "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\images\\visualizar1.jpg",
+      "PackagePath": "staticwebassets\\images\\visualizar1.jpg"
     },
     {
       "Id": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\wwwroot\\js\\site.js",

@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "C:\\ProjetosFelipe\\SiteVendas\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\areas\\admin\\views\\adminimagens\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\areas\\admin\\views\\adminimagens\\uploadfiles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\areas\\admin\\views\\adminimagens\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|solutionrelative:sitevendas\\areas\\admin\\controllers\\adminimagenscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B4CDD3E0-3941-4403-B770-C5BAC8211274}|SiteVendas\\SiteVendas.csproj|c:\\projetosfelipe\\sitevendas\\sitevendas\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -55,6 +59,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UploadFiles.cshtml",
+              "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "RelativeDocumentMoniker": "SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "RelativeToolTip": "SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\UploadFiles.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-26T14:22:30.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Areas\\Admin\\Views\\AdminImagens\\Index.cshtml",
@@ -67,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "SiteVendas\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
@@ -75,25 +92,24 @@
               "RelativeToolTip": "SiteVendas\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAABMAAABcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-09-25T18:15:22.767Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T18:15:22.767Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AdminImagensController.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
               "ToolTip": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
               "RelativeToolTip": "SiteVendas\\Areas\\Admin\\Controllers\\AdminImagensController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABYAAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAA5wBsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-25T18:14:08.323Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Startup.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Startup.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Startup.cs",
@@ -101,12 +117,11 @@
               "RelativeToolTip": "SiteVendas\\Startup.cs",
               "ViewState": "AQIAAF4AAAAAAAAAAAAIwFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T18:11:49.375Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T18:11:49.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "FileManagerModel.cs",
               "DocumentMoniker": "C:\\ProjetosFelipe\\SiteVendas\\SiteVendas\\Models\\FileManagerModel.cs",
               "RelativeDocumentMoniker": "SiteVendas\\Models\\FileManagerModel.cs",
@@ -114,8 +129,7 @@
               "RelativeToolTip": "SiteVendas\\Models\\FileManagerModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-25T17:57:03.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-25T17:57:03.778Z"
             }
           ]
         },
